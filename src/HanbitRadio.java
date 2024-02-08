@@ -1,4 +1,4 @@
-public class HanbitRadio {
+public class HanbitRadio implements HanbitAppliance {
     public void powerOn() {
         System.out.println("Radio is turned on");
     }

@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cd63d27-3f4a-4f40-b4da-76d9d8370600" name="Changes" comment="initial checkins">
-      <change afterPath="$PROJECT_DIR$/src/HanbitRadio.java" afterDir="false" />
+    <list default="true" id="2cd63d27-3f4a-4f40-b4da-76d9d8370600" name="Changes" comment="added radio">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HanbitAppliance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HanbitRadio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HanbitRadio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HanbitTelevision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HanbitTelevision.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HanbitTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HanbitTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -37,6 +42,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -68,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707364354561</updated>
-      <workItem from="1707364355574" duration="1439000" />
+      <workItem from="1707364355574" duration="2430000" />
     </task>
     <task id="LOCAL-00001" summary="initial checkins">
       <option name="closed" value="true" />
@@ -78,7 +84,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707364600295</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added radio">
+      <option name="closed" value="true" />
+      <created>1707365863736</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707365863736</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +100,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial checkins" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial checkins" />
+    <MESSAGE value="added radio" />
+    <option name="LAST_COMMIT_MESSAGE" value="added radio" />
   </component>
 </project>

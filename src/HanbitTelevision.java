@@ -1,4 +1,4 @@
-public class HanbitTelevision {
+public class HanbitTelevision implements HanbitAppliance {
     public void powerOn() {
         System.out.println("Television is turned on");
     }

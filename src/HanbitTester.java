@@ -1,13 +1,13 @@
 public class HanbitTester {
-    private HanbitRadio radio;
-    public HanbitTester() {
-        this.radio = new HanbitRadio();
+    private HanbitAppliance appliance;
+    public HanbitTester(HanbitAppliance appliance) {
+        this.appliance = appliance;
     }
 
     public void test() {
         for (int i = 0; i < 5; i++) {
-            radio.powerOn();
-            radio.powerOff();
+            appliance.powerOn();
+            appliance.powerOff();
         }
     }
 }
